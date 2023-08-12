@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamarthKumbar
+- 👋 Hi, I’m Samarth Kumbar
 - 👀 I’m interested in Machine Learning,Data Science as well as web development.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning,Data Science and Development Projects.
